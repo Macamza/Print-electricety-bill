@@ -1,0 +1,15 @@
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.csproj.AssemblyReference.cache
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.AssemblyInfoInputs.cache
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.AssemblyInfo.cs
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.csproj.CoreCompileInputs.cache
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\bin\Debug\net6.0\print_ectricity_bill.exe
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\bin\Debug\net6.0\print_ectricity_bill.deps.json
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\bin\Debug\net6.0\print_ectricity_bill.runtimeconfig.json
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\bin\Debug\net6.0\print_ectricity_bill.dll
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\bin\Debug\net6.0\print_ectricity_bill.pdb
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.dll
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\refint\print_ectricity_bill.dll
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.pdb
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\print_ectricity_bill.genruntimeconfig.cache
+C:\Users\MACAMZA-T\source\repos\print_ectricity_bill\obj\Debug\net6.0\ref\print_ectricity_bill.dll

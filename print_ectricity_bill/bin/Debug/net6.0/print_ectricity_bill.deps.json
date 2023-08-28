@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "print_ectricity_bill/1.0.0": {
+        "runtime": {
+          "print_ectricity_bill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "print_ectricity_bill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
